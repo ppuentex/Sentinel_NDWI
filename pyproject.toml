@@ -1,0 +1,17 @@
+[project]
+name = "sentinel-ndwi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.0.0",
+    "pandas>=2.3.0",
+    "rasterio>=1.4.0",
+    "sentinelhub>=3.11.0",
+    "matplotlib>=3.9.0",
+    "seaborn>=0.13.0",
+    "jupyter>=1.1.0",
+    "jupyterlab>=4.4.0",
+    "ipywidgets>=8.1.0",
+]
